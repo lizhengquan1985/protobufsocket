@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProtobufSocketDemo/SocketClientConsole/bin/Debug
+/ProtobufSocketDemo/SocketClientConsole/obj/Debug
+/ProtobufSocketDemo/SocketData/bin/Debug
+/ProtobufSocketDemo/SocketData/obj/Debug
+/ProtobufSocketDemo/SocketServerConsole/bin/Debug
+/ProtobufSocketDemo/SocketServerConsole/obj/Debug
